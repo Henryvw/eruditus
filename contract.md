@@ -10,7 +10,7 @@
 
 **`Learning Session`**: A `learning Session` is a two hour block used for concentrated study.
 
-**`Learning Recap`**: A `Learning Recap` is a 10 minute block at the end of the `Learning Day` for questions about your `Learning Project`.
+**`Learning Recap`**: A `Learning Recap` is a 15 minute block at the end of the `Learning Day` for questions about your `Learning Project`.
 
 **`Learning Project`**: A `Learning Project` refers to the learning you chose to undertake over the course of four `Learning Days`.
 
