@@ -1,16 +1,33 @@
-# A Contract with Myself
+# Eruditus Learning Contract
 
 ### Terms and Definitions
 
-**`Dance partner`**: A `dance partner` is the person you study with together.
+**`Dance Partner`**: A `Dance Partner` is the person you study with together.
 
-**`Game master`**: The `game master` is responsible for ensuring things start and finish on time.
+**`Game Master`**: The `Game Master` is responsible for ensuring the `Game Rules` (see below) for the project duration.
 
-**`Learning day`**: A `learning day` is the main unit study time. There is usually one `learning day` per week. A `learning day` has two `learning sessions`.
+**`Learning Day`**: A `Learning Day` is the main unit study time. There is usually one `Learning Day` per week. A `Learning Day` has two `Learning Sessions`.
 
-**`Learning session`**: A `learning session` is a two hour block used for concentrated study.
+**`Learning Session`**: A `learning Session` is a two hour block used for concentrated study.
 
-**`Project`**: A `project` refers to the learning project you chose to undertake over the course of four `learning days`.
+**`Learning Recap`**: A `Learning Recap` is a 10 minute block at the end of the `Learning Day` for questions about your `Learning Project`.
+
+**`Learning Project`**: A `Learning Project` refers to the learning you chose to undertake over the course of four `Learning Days`.
+
+**`Presentation Session`**: A `Presentation Session` is the last `Learning Session` of a `Learning Project` 
+
+---
+### Game Rules
+```
+ For the duration of the project the Game Master:
+    a. Clocks and announces the start and end of the learning day
+    b. Clocks and announces the start and end time of the learning session
+    c. Collects mobile phones at start of `Learning Day` 
+    d. Bars participants from entering the study space without their dance partner
+    e. Initiates the learning recap at the end of the learning day
+    f. Ensures Contracts are uploaded to GitHub
+    g. Ensures Presentations are presented in the Presentation Session
+---
 
 ---
 By signing this contract, I, `<name>`, agree to the following:
@@ -37,7 +54,11 @@ III. STRUCTURE
 
 **Title of your presentation:** ____________________
 
-
+**I am the Game Master for this Project** Yes   No
 
 Date, City:
+
 Signature:
+
+
+
