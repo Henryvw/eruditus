@@ -4,7 +4,7 @@
 
 **`Dance Partner`**: A `Dance Partner` is the person you study with together.
 
-**`Game Master`**: The `Game Master` is responsible for ensuring the `Game Rules` (see below) for the project duration.
+**`Game Master`**: The `Game Master` has a number of responsibilities (see below) to ensure the correct order of events.
 
 **`Learning Day`**: A `Learning Day` is the main unit study time. There is usually one `Learning Day` per week. A `Learning Day` has two `Learning Sessions`.
 
@@ -14,25 +14,25 @@
 
 **`Learning Project`**: A `Learning Project` refers to the learning you chose to undertake over the course of four `Learning Days`.
 
-**`Presentation Session`**: A `Presentation Session` is the last `Learning Session` of a `Learning Project` 
+**`Presentation Session`**: A `Presentation Session` is the last `Learning Session` of a `Learning Project`
 
 ---
-### Game Rules
+### Game Master Responsibilities
 ```
  For the duration of the project the Game Master:
     a. Clocks and announces the start and end of the learning day
     b. Clocks and announces the start and end time of the learning session
-    c. Collects mobile phones at start of `Learning Day` 
+    c. Collects mobile phones at start of `Learning Day`
     d. Bars participants from entering the study space without their dance partner
     e. Initiates the learning recap at the end of the learning day
-    f. Ensures Contracts are uploaded to GitHub
+    f. Ensures Contracts are signed before a new `Learning Project` starts
     g. Ensures Presentations are presented in the Presentation Session
     h. Runs Standup
 ```
 ---
 
 ---
-By signing this contract, I, `<name>`, agree to the following:
+## By signing this contract, I, _____________________________, agree to the following:
 
 ```
   I.  COMMITMENT
@@ -52,13 +52,13 @@ III. STRUCTURE
 ```
 ---
 
-**Name of your dance partner:** ____________________
+**Name of my dance partner:** _____________________________________
 
-**Title of your presentation:** ____________________
+**Title of my presentation:** _____________________________________
 
 **I am the Game Master for this Project** Yes   No
 
-Date, City:
+Date:
 
 Signature:
 
