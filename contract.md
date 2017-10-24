@@ -27,6 +27,7 @@
     e. Initiates the learning recap at the end of the learning day
     f. Ensures Contracts are uploaded to GitHub
     g. Ensures Presentations are presented in the Presentation Session
+    h. Runs Standup
 ```
 ---
 
@@ -44,10 +45,10 @@ By signing this contract, I, `<name>`, agree to the following:
      3. No mobile phones during learning sessions
 III. STRUCTURE
      1. Standup (~5 min)
-     2. Learning session (120 min)
+     2. Learning Session (120 min)
      3. Break (60 min)
-     4. Learning session (120 min)
-     5. Wrapup by game master (~15 min)
+     4. Learning Session (120 min)
+     5. Learning Recap (~15 min)
 ```
 ---
 
