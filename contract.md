@@ -27,6 +27,7 @@
     e. Initiates the learning recap at the end of the learning day
     f. Ensures Contracts are uploaded to GitHub
     g. Ensures Presentations are presented in the Presentation Session
+```
 ---
 
 ---
