@@ -1,5 +1,7 @@
 # Eruditus
 
+For more information please review the Eruditus [rules and definitions](rules_and_definitions.md).
+
 Bildung - Learning of the "eruditorum Magistri" - the masters of learned men
 
 >Ich, Ebenbild der Gottheit, das sich schon
