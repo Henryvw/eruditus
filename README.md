@@ -4,10 +4,10 @@ Eruditus is a self-learning structure for a small group of people based on the G
 
 The Eruditus structure is built on four principles:
 
-1. A contract with yourself
-2. A "dance partner" - i.e. at least one co-participant
-3. A Gamemaster who creates a structure in time
-4. A presentation about your learning
+1. A **Contract** with yourself
+2. A **Dance Partner** - i.e. at least one co-participant
+3. A **Gamemaster** who creates a structure in time
+4. A **Presentation** about your learning
 
 For more information please review the Eruditus [rules and definitions](rules_and_definitions.md).
 
