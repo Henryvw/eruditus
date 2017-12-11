@@ -50,6 +50,7 @@ The debrief gives students a chance to give feedback and improve Eruditus. 60 mi
 5. What would help us if we'd change it?
 6. What are interesting experiments?
 7. Open questions?
+8. Action items
 
 ### Planning
 
