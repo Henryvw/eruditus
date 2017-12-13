@@ -1,16 +1,16 @@
-**What felt good/what worked?**
-
-_Matthias_
-- library great spot
-- giving the presentation
-- 1 hour break
-- the contract worked
-- it's a commitment but not crazy die hard (1 week skip ok)
-- 1230 - 6ish was ok
-- having a set spot to meet
-- presentation at the 5th session felt right
-
-_Henry_
+| **What felt good/what worked?**
+|---------------------------------
+|_Matthias_
+|- library great spot
+|- giving the presentation
+|- 1 hour break
+|- the contract worked
+|- it's a commitment but not crazy die hard (1 week skip ok)
+|- 1230 - 6ish was ok
+|- having a set spot to meet
+|- presentation at the 5th session felt right
+|
+|_Henry_
 
 **What felt bad/didn't work?**
 
