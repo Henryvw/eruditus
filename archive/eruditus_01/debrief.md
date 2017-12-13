@@ -1,4 +1,5 @@
 **What felt good/what worked?**
+
 _Matthias_
 - library great spot
 - giving the presentation
@@ -12,6 +13,7 @@ _Matthias_
 _Henry_
 
 **What felt bad/didn't work?**
+
 _Matthias_
 - showing up and starting on time
 - schedule not clear yet (presentations in 5th meeting, plus debrief)
@@ -21,6 +23,7 @@ _Matthias_
 _Henry_
 
 **What would help us if we'd add it?**
+
 _Matthias_
 - more structure (having a set spot was good, maybe there should be more structure to things like debrief, celebration when done, having a set outline for a learning day written down)
 
