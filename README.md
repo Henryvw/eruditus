@@ -1,6 +1,6 @@
 # Eruditus
 
-Eruditus is a self-learning structure for a small group of people based on the German word "Bildung" or development.
+Eruditus is a self-learning structure for a small group of people based on the German word "Bildung" or "human self-development."
 
 The Eruditus structure is built on four principles:
 
