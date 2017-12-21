@@ -4,7 +4,7 @@ body:
 
 Hey `NAME HERE`,
 
-Great to have join, it'll be awesome, I promise :)
+Great to have you join, it'll be awesome, I promise :)
 
 I've sent you invites to the next sprint, please accept them to make sure you don't miss a learning or teaching day.
 
@@ -14,7 +14,7 @@ Please keep in mind we're meeting at the library so you'll need a valid pass to 
 
 Finally, for the optimal experience, please read our <a href="https://github.com/Henryvw/eruditus/blob/master/rules_and_definitions.md">rules and definitions</a> before your first learning day.
 
-Looking forward to seeing you on `DATE AND TIME OF FIRST LEARNING DAY`!
+Looking forward to seeing you on `DATE, PLACE, AND TIME OF FIRST LEARNING DAY`!
 
 Best,
 `YOUR NAME`
