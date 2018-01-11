@@ -4,7 +4,7 @@
 
 **`Debrief`**: In debrief, students review the learning project and give feedback to allow room for improvement.
 
-**`Game Master`**: The game master is responsible for the learning project.
+**`Lead Dancer`**: The lead dancer is responsible for the learning project.
 
 **`Learning Day`**: A learning day is the main unit of study time. A learning day has two learning sessions.
 
