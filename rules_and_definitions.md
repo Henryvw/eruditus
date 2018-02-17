@@ -32,12 +32,11 @@ A learning day stretches over ~5 1/2 hours and follows this structure:
 
 ### Teaching Day
 
-1. Standup (~5 min)
-2. Learning Session (120 min)
-3. Break (60 min)
-4. Presentation Session (60 min)
-5. Debrief (60 min)
-6. Planning (15 min)
+1. Finish Presentation (120 min)
+2. Break (60 min)
+3. Debrief (60 min)
+4. Planning (15 min)
+5. Presentation Session (60 min)
 
 ### Debrief
 
