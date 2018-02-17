@@ -45,12 +45,10 @@ The debrief gives students a chance to give feedback and improve Eruditus. 60 mi
 
 1. What felt good/what worked?
 2. What didn't work?
-3. What would help us if we'd add it?
-4. What would help us if we'd delete it?
-5. What would help us if we'd change it?
-6. What are interesting experiments?
-7. Open questions?
-8. Action items
+3. What would help us if we'd change it?
+4. What are interesting experiments?
+5. Open questions?
+6. Action items
 
 ### Planning
 
