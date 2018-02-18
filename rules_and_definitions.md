@@ -4,7 +4,7 @@
 
 1. A learning project stretches over four learning days
 2. You need a dance partner to be able to attend
-3. No phones during learning sessions
+3. Phones have to be in airplane mode during learning sessions
 
 ## Definitions
 
