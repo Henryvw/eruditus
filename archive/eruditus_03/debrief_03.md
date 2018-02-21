@@ -75,9 +75,9 @@
 - How to deal with spontaneous trips?
 
 8. Action items
-[ ] change 5 min standup to be optional
-[ ] clarify rules to not take phones away, just put into airplane mode until lunch
-[ ] switch presentation and review and planning
-[ ] change contract to be more flexible on presentation
-[ ] consolidate add, delete and change debrief questions to just change
-[ ] upload presentations
+- [x] change 5 min standup to be optional
+- [x] clarify rules to not take phones away, just put into airplane mode until lunch
+- [x] switch presentation and review and planning
+- [x] change contract to be more flexible on presentation
+- [x] consolidate add, delete and change debrief questions to just change
+- [x] upload presentations
