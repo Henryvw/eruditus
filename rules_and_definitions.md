@@ -5,6 +5,7 @@
 1. A learning project stretches over four learning days
 2. You need a dance partner to be able to attend
 3. Phones have to be in airplane mode during learning sessions
+4. If you're more than 10 min late, list the reasons and generate one action item to improve next time
 
 ## Definitions
 
@@ -13,8 +14,9 @@
 You're lead dancer, great! The role of the lead dancer is very important and ensures the success of a learning project. As lead dancer, you should take care of the following:
 
 1. Bring contracts and ensure they are signed at the beginning of a new learning project
-2. Collect and put phones in airplane mode at the start of the learning and teaching day
+2. Make sure phones are in airplane mode at the start of the learning and teaching day
 3. Guide students through the structure of learning and teaching days
+4. Own responsibility for implementing action items after review and planning
 
 ### Learning Project
 
@@ -44,10 +46,11 @@ The debrief gives students a chance to give feedback and improve Eruditus. 60 mi
 
 1. What felt good/what worked?
 2. What didn't work?
-3. What would help us if we'd change it?
+3. What would help us if we'd add/change it?
 4. What are interesting experiments?
 5. Open questions?
 6. Action items
+7. Current experiments
 
 ### Planning
 

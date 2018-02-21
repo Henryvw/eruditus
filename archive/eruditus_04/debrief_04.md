@@ -50,7 +50,7 @@
   * one Learning: with 10am, maybe this is the only activity for the day; I shouldn't try to cram in a morning activity;
 
 ## 8. Action items
-- [ ] add section for current experiments
+- [x] add section for current experiments
 - [x] add rule in case 10 min or later to Eruditus
 - [x] add additional section to contract that allow custom rules
 - [x] add section to contract that makes it clear you're committed to being there on the eruditus days (showing up on the agreed upon days)
