@@ -1,4 +1,4 @@
-1. What felt good/what worked?
+## 1. What felt good/what worked?
 - Having a set time to work on my C64 project.
 - Having a reason to give a talk about the things I've learned
 - Having a deadline to learn the thing that I set out to learn
@@ -16,7 +16,7 @@
 - more than 2 people splitting and doing individual sessions worked well
 - timing people in the presentations for 15 min but giving them time to finish
 
-2. What didn't work?
+## 2. What didn't work?
 - Having my phone taken away from me.
 - Having my work day start and end time being determined by when my partner showed up.
 - Standups were not useful.
@@ -33,17 +33,17 @@
 - communication off sometimes (Christoph sick, "extra" days)
 - generally second session worked better than first
 
-3. What would help us if we'd add it?
+## 3. What would help us if we'd add it?
 - More concrete learning goals from outset, or close to the beginning of a project might provide a better framework for learning.
 - More discussion at lunch about what everyone is learning.
 - Ideas for punctuality
 - 10 min reminder before the first learning session is up to start preparing for the review
 
-4. What would help us if we'd delete it?
+## 4. What would help us if we'd delete it?
 - No idea.
 - 5 min standup in the beginning (felt useless to have it)
 
-5. What would help us if we'd change it?
+## 5. What would help us if we'd change it?
 - Remove debrief questions 3 and 4; the answers for them can be put here.
 - Teaching Day presentations should be focused on teaching something to the other people.
 - Isn't adding and deleting changing?
@@ -55,7 +55,7 @@
 - Clarity on what the contract means in terms of attendance
 - change the start time to either 10 or even later
 
-6. What are interesting experiments?
+## 6. What are interesting experiments?
 - Two people could work together on a learning project.
 - A teaching day without learning days.
 - Values, not rules.
@@ -66,7 +66,7 @@
 - no phones during the whole day (only "emergency" phone calls)
 - have presentation at the end of othe teaching day after review and planning
 
-7. Open questions?
+## 7. Open questions?
 - No.
 - Hard to cover an unknown topic with this free-form structure?
 - Mingling doing and learning
@@ -74,7 +74,7 @@
 - Are there any systems that we've developed that are unnecessary?
 - How to deal with spontaneous trips?
 
-8. Action items
+## 8. Action items
 - [x] change 5 min standup to be optional
 - [x] clarify rules to not take phones away, just put into airplane mode until lunch
 - [x] switch presentation and review and planning
