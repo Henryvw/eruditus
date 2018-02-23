@@ -11,6 +11,9 @@ The Eruditus structure is built on four principles:
 
 For more information please review the Eruditus [rules and definitions](rules_and_definitions.md).
 
+## Resources
+1. [How to Give An Excellent Presentation Checklist](https://docs.google.com/document/d/1sbnZReCfE3PIysvnFbHjN36D3eLfuZcHb9BF--Xchk4/edit?usp=sharing)
+
 Bildung - Learning of the "eruditorum Magistri" - the masters of learned men
 
 >Ich, Ebenbild der Gottheit, das sich schon
