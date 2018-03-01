@@ -12,7 +12,7 @@ The Eruditus structure is built on four principles:
 For more information please review the Eruditus [rules and definitions](rules_and_definitions.md).
 
 ## Resources
-1. [How to Give An Excellent Presentation Checklist](https://docs.google.com/document/d/1sbnZReCfE3PIysvnFbHjN36D3eLfuZcHb9BF--Xchk4/edit?usp=sharing)
+1. [How to Give An Excellent Presentation Checklist](https://github.com/Henryvw/eruditus/blob/master/resources/how_to_give_a_presentation.md)
 
 ## Inspiration
 Bildung - Learning of the "eruditorum Magistri" - the masters of learned men
