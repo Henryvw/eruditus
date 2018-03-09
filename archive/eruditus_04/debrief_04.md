@@ -56,3 +56,8 @@
 - [x] add section to contract that makes it clear you're committed to being there on the eruditus days (showing up on the agreed upon days)
 - [x] add section to rules and definitions (lead dancer is responsible for implementing action items after review and planning)
 - [x] combine and upload retro feedback
+
+## 9. Current experiments
+- three people partnered up
+- guest learners
+- doing presentations at the end
