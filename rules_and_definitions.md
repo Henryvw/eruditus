@@ -9,7 +9,7 @@
 5. In case of illness:
     - Case A You're the Lead Dancer: Continue in your role via telephone: call the participant to walk them through their day at the library.
     - Case B You're a Participant, and a Lead Dancer depends on you: Take on the role of Lead Dancer, and continue as described in Case A.
-    - It is also an option in case of illness to reschedule the Eruditus day. This is only possible if it works for every single other person participating in the current learning project.
+    - It is also an option in case of illness to reschedule the Eruditus day. This is only possible if no one else objects and a new date works for every person participating in the current learning project.
 
 ## Definitions
 
