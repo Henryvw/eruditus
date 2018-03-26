@@ -6,9 +6,10 @@
 2. You need a dance partner to be able to attend
 3. Phones have to be in airplane mode during learning sessions
 4. If you're more than 10 min late, list the reasons and generate one action item to improve next time
-5. In case of illness: 
+5. In case of illness:
     - Case A You're the Lead Dancer: Continue in your role via telephone: call the participant to walk them through their day at the library.
     - Case B You're a Participant, and a Lead Dancer depends on you: Take on the role of Lead Dancer, and continue as described in Case A.
+    - It is also an option in case of illness to reschedule the Eruditus day. This is only possible if it works for every single other person participating in the current learning project.
 
 ## Definitions
 
