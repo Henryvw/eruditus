@@ -3,7 +3,7 @@
 ## Rules
 
 1. A learning project stretches over four learning days
-2. You need a dance partner to be able to attend
+2. You need a learning partner to be able to attend
 3. Phones have to be in airplane mode during learning sessions
 4. If you're more than 10 min late, list the reasons and generate one action item to improve next time
 5. In case of illness:

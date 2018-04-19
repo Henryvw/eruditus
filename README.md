@@ -1,15 +1,13 @@
 # Eruditus
 
-Eruditus is a self-learning structure for a small group of people based on the German word "Bildung" or "human self-development."
+Eruditus is a framework for learning independently together.
 
-The Eruditus structure is built on four principles:
+This framework is composed of two key elements:
 
-1. A **Contract** with yourself
-2. A **Dance Partner** - i.e. at least one co-participant
-3. A **Lead Dancer** who creates a structure in time
-4. A **Presentation** about your learning
+1. A [learning partner](glossary.md)
+2. Presentations about your learning
 
-For more information please review the Eruditus [rules and definitions](rules_and_definitions.md).
+And [several supporting tools](rules_and_definitions.md).
 
 ## Resources
 1. [How to Give An Excellent Presentation Checklist](https://github.com/Henryvw/eruditus/blob/master/resources/how_to_give_a_presentation.md)

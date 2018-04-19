@@ -1,6 +1,6 @@
 ## Glossary
 
-**`Dance Partner`**: A dance partner is the person you study with together.
+**`Learning Partner`**: A learning partner is the person you study with together.
 
 **`Debrief`**: In debrief, students review the learning project and give feedback to allow room for improvement.
 
