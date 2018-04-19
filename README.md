@@ -2,12 +2,13 @@
 
 Eruditus is a framework for learning independently together.
 
-This framework is composed of two key elements:
+This framework is composed of three elements:
 
 1. A [learning partner](glossary.md)
+2. Appointment integrity
 2. Presentations about your learning
 
-And [several supporting tools](rules_and_definitions.md).
+And [several tools](rules_and_definitions.md).
 
 ## Resources
 1. [How to Give An Excellent Presentation Checklist](https://github.com/Henryvw/eruditus/blob/master/resources/how_to_give_a_presentation.md)
