@@ -32,8 +32,8 @@
 - How do we keep it simple?
 
 ## 6. Action items
-- [ ] Add challenge-each-other disclaimer to the lead dancer checklist
-- [ ] Update rules and definitions to reflect current experiments (basically remove as much as possible)
+- [x] Add challenge-each-other disclaimer to the lead dancer checklist
+- [x] Update rules and definitions to reflect current experiments (basically remove as much as possible)
 
 ## 7. Current experiments
 - we'll have the check-in at start time, if someone is not on time, it's up to the others to decide to wait or get started
