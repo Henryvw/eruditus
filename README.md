@@ -6,7 +6,7 @@ This framework is composed of three elements:
 
 1. A [learning partner](glossary.md)
 2. Appointment integrity
-2. Presentations about your learning
+3. Presentations about your learning
 
 And [several tools](rules_and_definitions.md).
 
