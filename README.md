@@ -30,3 +30,7 @@ Bildung - Learning of the "eruditorum Magistri" - the masters of learned men
 -Goethe, _Faust_
 
 ![Faust im Studierzimmer!](https://github.com/Henryvw/eruditus/blob/master/images/georg_friedrich.jpg?raw=true "Faust!")
+
+## List of topics that are too big for the review
+
+Last big discussion day April 19th, 2018
